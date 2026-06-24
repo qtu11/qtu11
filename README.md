@@ -56,16 +56,6 @@ class Qtusdev:
         "C#", "Lua", "CUDA", "GLSL", "Haskell",
     ]  # 22+ languages
 
-    philosophy = "Ship fast. Scale smart. Never stop building. 🚀"
-
-    def current_obsession(self) -> dict:
-        return {
-            "AI Agent" : "Multi-agent LLM pipelines with RAG + tool-calling",
-            "Quant"    : "Climax Scalper v1.0 — Volume Action EA for MT5",
-            "Data"     : "Real-time streaming with Kafka + Flink + ClickHouse",
-            "Game"     : "Procedural world gen with ECS + custom GLSL shaders",
-            "IoT"      : "ESP32 mesh network with MQTT + TFLite edge inference",
-        }
 
     def fun_facts(self) -> list:
         return [
