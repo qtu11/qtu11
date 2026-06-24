@@ -1,7 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3483,40:1565c0,80:0097a7,100:00acc1&height=220&section=header&text=QTUSDEV&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Embedded%20%26%20IoT&descSize=16&descAlignY=65&descColor=d4e6f1&stroke=00e5ff&strokeWidth=1"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3483,40:1565c0,80:0097a7,100:00acc1&height=220&section=header&text=QTUSDEV&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Quant%20Dev%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Game%20Dev%20%E2%80%A2%20Embedded%20and%20IoT&descSize=16&descAlignY=65&descColor=d4e6f1&stroke=00e5ff&strokeWidth=1"/>
 </div>
 
 <div align="center">
