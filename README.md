@@ -313,23 +313,17 @@ class Qtusdev:
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qtu11&theme=tokyo-night&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true"/>
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=qtu11&theme=tokyonight&column=8&row=1&margin-w=8&no-bg=true&no-frame=true"/>
+<img
+  width="100%"
+  src="./assets/github-trophy.svg"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
